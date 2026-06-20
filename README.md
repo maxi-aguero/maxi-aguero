@@ -1,40 +1,39 @@
 
-<h1>Hola, soy <strong>Maxi Aguero</strong> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi, I'm <strong>Maxi Aguero</strong> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<p>🎓 Analista en Sistemas</p>
-<p>💻 Desarrollador Backend con Java, Spring Boot y Node.js</p>
+<p>🎓 Systems Analyst</p>
+<p>💻 Backend Developer with Java, Spring Boot and Node.js</p>
 
-## 🚀 Proyectos
+## 🚀 Projects
+- API REST with Spring Boot
+- API REST with Node.js
 
-- API REST con Spring Boot
-- API REST con Node.js
 
-## 💪 Conocimientos
+## 💪 Skills
 
-### Lenguajes
+### Programming Languages
 - Java
 - JavaScript
 - HTML
 - CSS
 
-### Frameworks y Tecnologías
+### Frameworks & Technologies
 - Spring Boot
 - Node.js
 - REST API
 
-### Bases de Datos
+### Databases
 - MySQL
 - MongoDB
 - Firestore
 
-### Herramientas
+### Tools
 - Git
 - GitHub
 - IntelliJ IDEA
 - VS Code
 
-## 🌱 Actualmente estudiando
-
+## 🌱 Currently Learning
 - C#
 - React
 - Django
