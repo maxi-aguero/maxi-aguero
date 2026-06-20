@@ -32,6 +32,7 @@
 - GitHub
 - IntelliJ IDEA
 - VS Code
+- Eclipse
 
 ## 🌱 Currently Learning
 - C#
