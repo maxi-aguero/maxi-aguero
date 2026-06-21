@@ -36,9 +36,11 @@
 
 ## 🌱 Currently Learning
 - C#
+- Typescript 
 - React
 - Django
 - Laravel
+- Next.js
 - Docker
 - Linux
   
