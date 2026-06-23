@@ -34,6 +34,8 @@
 - IntelliJ IDEA
 - VS Code
 - Eclipse
+- Render
+- Vercel
 
 ## 🌱 Currently Learning
 - C#
