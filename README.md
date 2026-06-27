@@ -16,8 +16,7 @@
 - JavaScript
 - HTML
 - CSS
-- BASH
-- Docker
+
 
 ### Frameworks & Technologies
 - Spring Boot
@@ -30,14 +29,18 @@
 - MongoDB
 - Firestore
 
+### Deployment & DevOps
+- BASH
+- Docker
+- Render
+- Vercel
+
 ### Tools
 - Git
 - GitHub
 - IntelliJ IDEA
 - VS Code
 - Eclipse
-- Render
-- Vercel
 
 ## 🌱 Currently Learning
 - C#
