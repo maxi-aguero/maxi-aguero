@@ -16,6 +16,7 @@
 - JavaScript
 - HTML
 - CSS
+- PHP
 
 
 ### Frameworks & Technologies
