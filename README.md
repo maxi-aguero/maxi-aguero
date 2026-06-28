@@ -49,7 +49,8 @@
 
 ## 🌱 Currently Learning
 - C#
-- Typescript 
+- Typescript
+- GraphQL 
 - Django
 - Laravel
 
