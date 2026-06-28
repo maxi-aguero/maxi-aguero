@@ -22,6 +22,7 @@
 ### Frameworks & Technologies
 - Spring Boot
 - Node.js
+- React
 - REST API
 
 ### Databases
@@ -35,6 +36,7 @@
 - Docker
 - Render
 - Vercel
+- Netlify
 
 ### Tools
 - Git
@@ -46,7 +48,6 @@
 ## 🌱 Currently Learning
 - C#
 - Typescript 
-- React
 - Django
 - Laravel
 - Nextjs
