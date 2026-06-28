@@ -25,6 +25,7 @@
 - Node.js
 - React
 - REST API
+- GraphQL
 
 ### Databases
 - MySQL
