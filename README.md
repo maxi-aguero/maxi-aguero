@@ -5,7 +5,7 @@
 <p>💻 Backend Developer with Java, Spring Boot and Node.js</p>
 
 ## 🚀 Projects
-- GraphQL APİ with Spring Boot
+- GraphQL API with Spring Boot
 - API REST with Spring Boot
 - API REST with Node.js
 
