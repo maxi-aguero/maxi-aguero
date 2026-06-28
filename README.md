@@ -5,6 +5,7 @@
 <p>💻 Backend Developer with Java, Spring Boot and Node.js</p>
 
 ## 🚀 Projects
+- GraphQL Api with Spring Boot
 - API REST with Spring Boot
 - API REST with Node.js
 
@@ -50,7 +51,6 @@
 ## 🌱 Currently Learning
 - C#
 - Typescript
-- GraphQL 
 - Django
 - Laravel
 
