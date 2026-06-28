@@ -30,6 +30,8 @@
 - MariaDB
 - MongoDB
 - Firestore
+- PostgreSQL
+- SQLite
 
 ### Deployment & DevOps
 - BASH
